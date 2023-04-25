@@ -32,7 +32,7 @@ class JogoAdivinhacao {
                 cout << "Parabéns, você acertou o número em "
                 << tentativas << " tentativas!" << endl;
                 }
-                //
+                //repetir instruções até o usuário acertar o número secreto
         } while (palpite != numeroSecreto);
         }
     };
