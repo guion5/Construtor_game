@@ -1,9 +1,10 @@
-# Programa Cálculo do triângulo com função
+# Programa Jogo de Adivinhação com Construtores
 ## Versão: 1.0 
 ## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
 
 ## Tópicos
 🔹 Descrição do projeto 
+Jogo para adivinhação do número da sorte (randômico) utilizando classe, construtor e método.
 
 🔹 Funcionalidades
 
@@ -14,10 +15,12 @@
 🔹 Como rodar a aplicação
 
 🔹 Testes realizados
+Testado no Programiz
 
 🔹 Banco de Dados
 
 🔹 Linguagens, dependências e libs utilizadas
+C++
 
 🔹 Novas Recursos
 
@@ -26,6 +29,7 @@
 🔹 Recursos inseridos 
 
 🔹 Desenvolvedores/Contribuintes
+Guilherme
 
 🔹 Informações Extras
 
@@ -35,7 +39,9 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+Jogo de adivinhação de um número determinado por um contador randômico entre 1 e 100, utilizando classe, construtor e método.
+O usuário imputa um determinado número entre 1 e 100 até acertar o número sorteado no início do código. Após acertar o número da sorte o progrma apresenta também o número de tentativas.
+
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
