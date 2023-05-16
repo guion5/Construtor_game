@@ -42,3 +42,5 @@ class JogoAdivinhacao {
         jogo.jogar();
         return 0;
     }
+
+/*esse código pode ser usado em um jogo para determinar alguma recompensa aleatória para o jogador, como ao abrir um baú ou um pack de cartas especiais*/
